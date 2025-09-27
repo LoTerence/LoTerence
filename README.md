@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world! 👋
 
 <!--
 **LoTerence/LoTerence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Terence, pleased to meet you! I am an experienced software engineer specializing in full stack web development. I enjoy building web applications using React, TypeScript, NextJS, and Postgres. A self-starter and problem solver, I excel at picking up new technologies to meet project requirements and improve existing systems.
+
+As a Technical Lead at Hack for LA (my local coding brigade), my philosophy is to deliver a product as efficiently and correctly as possible. Thus, I value tools, strategies, and procedures that increase development velocity, remove roadblocks in workflow pipelines, and effective communication with multidisciplinary software teams.
+
+Outside of development work, I enjoy learning about topics such as data structures and algorithms, system design, and artificial intelligence. I take breaks from studying by staying physically active - hiking, training mixed martial arts, and lifting weights.
+
+#### Projects
+
+**CivicTechJobs** [Repo](https://github.com/hackforla/CivicTechJobs)
+
+A content management system that uses a research-based filtering system to optimally match volunteer opportunity seekers to projects. Made with a team of skilled developers, project managers, UI designers, and UX researchers, this project is the crystallization of months of research and development. I have had the luxury of being the Technical Lead involved with developing its technical stack and architectural design.
+
+Stack: [Django](https://www.djangoproject.com/) | [Django Rest Framework](https://www.django-rest-framework.org/) | [React](https://reactjs.org/) | Vite | [PostgreSQL](https://www.postgresql.org/) | [Docker](https://www.docker.com/) | [GitHub Actions](https://github.com/features/actions) | [AWS](https://aws.amazon.com/)
+
+MkDocs site: [CivicTechJobs Wiki](https://hackforla.github.io/CivicTechJobs/)
+
+
+
+#### Get in Touch
+
+
+
+#### Skills
+
+
