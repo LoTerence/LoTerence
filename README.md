@@ -49,8 +49,7 @@ _Stack_: [React](https://reactjs.org/) | [React Router](https://reactrouter.com/
 
 ### Skills
 
-<img height="40" alt="html5-logo" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
-<img height="40" alt="css3-logo" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
+<img height="40" alt="html5-logo" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /><img height="40" alt="css3-logo" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
 <img height="40" alt="javascript-logo" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
 <img height="40" alt="typescript-logo" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
 <img height="40" alt="react-logo" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" />
