@@ -35,7 +35,7 @@ _Stack_: [Django](https://www.djangoproject.com/) | [Django Rest Framework](http
 
 **Cryptocharts** [Site](https://cryptocharts.koyomi-ai.com/) | [Repo](https://github.com/LoTerence/altcoin-charter)
 
-A financial technology platform that provides an intuitive way to explore the price history of any cryptocurrency. Users can view interactive charts, analyze trends over different timeframes, and compare performance to make data-driven investment decisions. WAGMI!
+A financial technology platform that provides an intuitive way to explore the price history of any cryptocurrency. Users can view interactive charts, analyze trends over different timeframes, and compare performance to make data-driven investment decisions. HODL bitcoin.
 
 Built with the MERN stack. Features authorization and authentication using Oauth and JWT. Secured with CSP and CORS.
 
