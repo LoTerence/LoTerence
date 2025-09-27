@@ -22,7 +22,7 @@ As a Technical Lead at Hack for LA (my local coding brigade), my philosophy is t
 Outside of development work, I enjoy learning about topics such as data structures and algorithms, system design, and artificial intelligence. I take breaks from studying by staying physically active - hiking, training mixed martial arts, and lifting weights.
 
 
-### Projects
+## Projects
 
 **CivicTechJobs** [Repo](https://github.com/hackforla/CivicTechJobs) | [Docs](https://hackforla.github.io/CivicTechJobs/)
 
@@ -42,12 +42,12 @@ Built with the MERN stack. Features authorization and authentication using Oauth
 _Stack_: [React](https://reactjs.org/) | [React Router](https://reactrouter.com/) | [Redux](https://redux.js.org/) | [Bootstrap](https://getbootstrap.com/) | [Express](https://expressjs.com/) | [MongoDB](https://www.mongodb.com/) | [Passport](https://www.passportjs.org/) | [Railway](https://railway.com/)
 
 
-### Get in Touch
+## Get in Touch
 
 <a href="https://www.linkedin.com/in/loterence"><img height="40" alt="linkedin-logo" src="https://github.com/user-attachments/assets/f5b0ba98-7eb4-423e-b07a-42752fbe5158" /></a>
 
 
-### Skills
+## Skills
 
 <img height="40" alt="html5-logo" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /><img height="40" alt="css3-logo" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
 <img height="40" alt="javascript-logo" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" /><img height="40" alt="typescript-logo" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
