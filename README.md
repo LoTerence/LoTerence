@@ -24,24 +24,22 @@ Outside of development work, I enjoy learning about topics such as data structur
 
 ### Projects
 
-**CivicTechJobs** [Repo](https://github.com/hackforla/CivicTechJobs)
+**CivicTechJobs** [Repo](https://github.com/hackforla/CivicTechJobs) | [Docs](https://hackforla.github.io/CivicTechJobs/)
 
 A content management system that uses a research-based filtering system to optimally match volunteer opportunity seekers to projects. Made with a team of skilled developers, project managers, UI designers, and UX researchers, this project is the crystallization of months of research and development. I have had the luxury of being the Technical Lead involved with developing its technical stack and architectural design.
 
 Built with React + TypeScript in the frontend, and Python + Django in the backend.
 
-Stack: [Django](https://www.djangoproject.com/) | [Django Rest Framework](https://www.django-rest-framework.org/) | [React](https://reactjs.org/) | [Tailwind CSS](https://tailwindcss.com/) | [Vite](https://vite.dev/) | [Vitest](https://vitest.dev/) | [PostgreSQL](https://www.postgresql.org/) | [Docker](https://www.docker.com/) | [GitHub Actions](https://github.com/features/actions) | [AWS](https://aws.amazon.com/) | [Terraform](https://developer.hashicorp.com/terraform)
-
-MkDocs site: [CivicTechJobs Wiki](https://hackforla.github.io/CivicTechJobs/)
+_Stack_: [Django](https://www.djangoproject.com/) | [Django Rest Framework](https://www.django-rest-framework.org/) | [React](https://reactjs.org/) | [Tailwind CSS](https://tailwindcss.com/) | [Vite](https://vite.dev/) | [Vitest](https://vitest.dev/) | [PostgreSQL](https://www.postgresql.org/) | [Docker](https://www.docker.com/) | [GitHub Actions](https://github.com/features/actions) | [AWS](https://aws.amazon.com/) | [Terraform](https://developer.hashicorp.com/terraform)
 
 
 **Cryptocharts** [Site](https://cryptocharts.koyomi-ai.com/) | [Repo](https://github.com/LoTerence/altcoin-charter)
 
-A financial technology platform that provides an intuitive way to explore the price history of any cryptocurrency. Users can view interactive charts, analyze trends over different timeframes, and compare performance to make data-driven investment decisions. Features authentication using Oauth and JWT. Secured with CSP and CORS.
+A financial technology platform that provides an intuitive way to explore the price history of any cryptocurrency. Users can view interactive charts, analyze trends over different timeframes, and compare performance to make data-driven investment decisions.
 
-Built with the MERN stack: MongoDB (noSQL), Express.js, React, and Node.js.
+Built with the MERN stack. Features authentication using Oauth and JWT. Secured with CSP and CORS.
 
-Stack: [React](https://reactjs.org/) | [React Router](https://reactrouter.com/) | [Redux](https://redux.js.org/) | [Bootstrap](https://getbootstrap.com/) | [Express](https://expressjs.com/) | [MongoDB](https://www.mongodb.com/) | [Passport](https://www.passportjs.org/) | [Railway](https://railway.com/)
+_Stack_: [React](https://reactjs.org/) | [React Router](https://reactrouter.com/) | [Redux](https://redux.js.org/) | [Bootstrap](https://getbootstrap.com/) | [Express](https://expressjs.com/) | [MongoDB](https://www.mongodb.com/) | [Passport](https://www.passportjs.org/) | [Railway](https://railway.com/)
 
 
 ### Get in Touch
