@@ -50,17 +50,17 @@ _Stack_: [React](https://reactjs.org/) | [React Router](https://reactrouter.com/
 ### Skills
 
 <img height="40" alt="html5-logo" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+<img height="40" alt="css3-logo" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
+<img height="40" alt="javascript-logo" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
+<img height="40" alt="typescript-logo" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
+<img height="40" alt="react-logo" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" />
+<img height="40" alt="tailwind-logo" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" />
 
 
-HTML5
-CSS3
-Tailwind CSS
-JavaScript
-TypeScript
-React
-Next.js
-Python
-Django
-Docker
-AWS
 
+- Next.js - https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/591px-Nextjs-logo.svg.png?20230404233503
+- Python - https://img.icons8.com/?size=100&id=13441&format=png&color=000000
+- Django - https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000
+- Docker - https://img.icons8.com/?size=100&id=22813&format=png&color=000000
+- AWS - https://img.icons8.com/?size=100&id=33039&format=png&color=000000
+- postgres - https://img.icons8.com/?size=100&id=38561&format=png&color=000000
