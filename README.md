@@ -1,4 +1,4 @@
-## Hello world! 👋
+# Hello world! 👋
 
 <!--
 **LoTerence/LoTerence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,22 +21,35 @@ As a Technical Lead at Hack for LA (my local coding brigade), my philosophy is t
 
 Outside of development work, I enjoy learning about topics such as data structures and algorithms, system design, and artificial intelligence. I take breaks from studying by staying physically active - hiking, training mixed martial arts, and lifting weights.
 
-#### Projects
+
+### Projects
 
 **CivicTechJobs** [Repo](https://github.com/hackforla/CivicTechJobs)
 
 A content management system that uses a research-based filtering system to optimally match volunteer opportunity seekers to projects. Made with a team of skilled developers, project managers, UI designers, and UX researchers, this project is the crystallization of months of research and development. I have had the luxury of being the Technical Lead involved with developing its technical stack and architectural design.
 
-Stack: [Django](https://www.djangoproject.com/) | [Django Rest Framework](https://www.django-rest-framework.org/) | [React](https://reactjs.org/) | Vite | [PostgreSQL](https://www.postgresql.org/) | [Docker](https://www.docker.com/) | [GitHub Actions](https://github.com/features/actions) | [AWS](https://aws.amazon.com/)
+Stack: [Django](https://www.djangoproject.com/) | [Django Rest Framework](https://www.django-rest-framework.org/) | [React](https://reactjs.org/) | [Tailwind CSS](https://tailwindcss.com/) | [Vite](https://vite.dev/) | [Vitest](https://vitest.dev/) | [PostgreSQL](https://www.postgresql.org/) | [Docker](https://www.docker.com/) | [GitHub Actions](https://github.com/features/actions) | [AWS](https://aws.amazon.com/) | [Terraform](https://developer.hashicorp.com/terraform)
 
 MkDocs site: [CivicTechJobs Wiki](https://hackforla.github.io/CivicTechJobs/)
 
 
 
-#### Get in Touch
+### Get in Touch
+
+<a href="https://www.linkedin.com/in/loterence"><img height="40" alt="linkedin-logo" src="https://github.com/user-attachments/assets/f5b0ba98-7eb4-423e-b07a-42752fbe5158" /></a>
 
 
+### Skills
 
-#### Skills
-
+HTML5
+CSS3
+Tailwind CSS
+JavaScript
+TypeScript
+React
+Next.js
+Python
+Django
+Docker
+AWS
 
