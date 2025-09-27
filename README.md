@@ -33,7 +33,7 @@ Built with React + TypeScript in the frontend, and Python + Django in the backen
 _Stack_: [Django](https://www.djangoproject.com/) | [Django Rest Framework](https://www.django-rest-framework.org/) | [React](https://reactjs.org/) | [Tailwind CSS](https://tailwindcss.com/) | [Vite](https://vite.dev/) | [Vitest](https://vitest.dev/) | [PostgreSQL](https://www.postgresql.org/) | [Docker](https://www.docker.com/) | [GitHub Actions](https://github.com/features/actions) | [AWS](https://aws.amazon.com/) | [Terraform](https://developer.hashicorp.com/terraform)
 
 
-**Cryptocharts** [Site](https://cryptocharts.koyomi-ai.com/) | [Repo](https://github.com/LoTerence/altcoin-charter)
+**altcoin-charter** [Site](https://cryptocharts.koyomi-ai.com/) | [Repo](https://github.com/LoTerence/altcoin-charter)
 
 A financial technology platform that provides an intuitive way to explore the price history of any cryptocurrency. Users can view interactive charts, analyze trends over different timeframes, and compare performance to make data-driven investment decisions. HODL bitcoin.
 
