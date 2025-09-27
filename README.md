@@ -49,6 +49,9 @@ _Stack_: [React](https://reactjs.org/) | [React Router](https://reactrouter.com/
 
 ### Skills
 
+<img height="40" alt="html5-logo" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+
+
 HTML5
 CSS3
 Tailwind CSS
