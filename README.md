@@ -49,13 +49,13 @@ _Stack_: [React](https://reactjs.org/) | [React Router](https://reactrouter.com/
 
 ## Skills
 
-<img height="40" alt="html5-logo" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /><img height="40" alt="css3-logo" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
-<img height="40" alt="javascript-logo" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" /><img height="40" alt="typescript-logo" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
-<img height="40" alt="react-logo" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" /><img height="40" alt="tailwind-logo" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" />
-<img height="40" alt="nextjs-logo" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" />
-<img height="40" alt="postgres-logo" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
-<img height="40" alt="docker-logo" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" />
-<img height="40" alt="aws-logo" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
+<img title="HTML5" height="40" alt="html5-logo" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /><img title="CSS3" height="40" alt="css3-logo" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
+<img title="JavaScript" height="40" alt="javascript-logo" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" /><img title="TypeScript" height="40" alt="typescript-logo" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
+<img title="React19" height="40" alt="react-logo" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" /><img title="Tailwind CSS" height="40" alt="tailwind-logo" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" />
+<img title="Next.js" height="40" alt="nextjs-logo" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" />
+<img title="PostgreSQL" height="40" alt="postgres-logo" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
+<img title="Docker" height="40" alt="docker-logo" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" />
+<img title="AWS" height="40" alt="aws-logo" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
 
 
 <!--
